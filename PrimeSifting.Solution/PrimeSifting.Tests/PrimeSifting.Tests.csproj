@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Calendar\Calendar.csproj" />  
+    <ProjectReference Include="..\PrimeSifting\PrimeSifting.csproj" />  
   </ItemGroup>
 
 </Project>

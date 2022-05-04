@@ -1,0 +1,16 @@
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.exe
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.deps.json
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.runtimeconfig.json
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.runtimeconfig.dev.json
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.dll
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\ref\PrimeSifting.dll
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\bin\Debug\net5.0\PrimeSifting.pdb
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.AssemblyInfo.cs
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.dll
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\ref\PrimeSifting.dll
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.pdb
+C:\Users\willi\Documents\Epicodus\c#\PrimeSifting\PrimeSifting.Solution\PrimeSifting\obj\Debug\net5.0\PrimeSifting.genruntimeconfig.cache
